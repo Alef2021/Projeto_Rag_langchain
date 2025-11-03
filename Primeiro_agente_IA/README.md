@@ -1,6 +1,6 @@
 # ⚡ Mestre Pokémon — Guia RAG da 1ª Geração
 
-🟢 **Acesse Agora:** [projetopokedexchatalef.streamlit.app](https://projetopokedexchatalef.streamlit.app/)
+🟢 **Acesse Agora:** [projetopokedexchatalef.streamlit.app](https://projetoraglangchain-pokedexxalef.streamlit.app/)
 
 Uma aplicação interativa desenvolvida com **Streamlit** e **LangChain**, que utiliza **IA generativa do Google Gemini** e **busca vetorial (RAG)** para responder perguntas sobre Pokémon da 1ª geração (Kanto).  
 A ferramenta atua como um “Mestre Pokémon”, capaz de buscar informações contextuais em uma base vetorizada e responder de forma inteligente e temática.
@@ -10,7 +10,7 @@ A ferramenta atua como um “Mestre Pokémon”, capaz de buscar informações c
 ## 🌐 Deploy Online
 
 A aplicação está disponível publicamente no Streamlit Cloud:  
-👉 **[Acesse aqui o Mestre Pokémon](https://projetopokedexchatalef.streamlit.app/)**  
+👉 **[Acesse aqui o Mestre Pokémon](https://projetoraglangchain-pokedexxalef.streamlit.app/)**  
 
 Você pode interagir diretamente com o assistente sem precisar instalar nada localmente.
 
