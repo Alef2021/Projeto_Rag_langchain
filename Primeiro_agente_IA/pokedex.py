@@ -9,7 +9,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 #load .env ele nos permite ler a API KEY do Gemini
 load_dotenv()
 # Caminho do banco de dados vetorizado
-CAMINHO_DB_BASE = f"db"
+CAMINHO_DB_BASE = f"Primeiro_agente_IA/db"
 # O modelo LLM (para gerar a resposta)
 GEMINI_LLM_MODEL = "gemini-2.5-flash" 
 # O modelo de Embeddings (para vetorização)

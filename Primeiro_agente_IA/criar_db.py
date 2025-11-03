@@ -45,7 +45,7 @@ def vetorizar_chunks(chunks):
     # Cria variavel de vetorizacao
     embeddings = GoogleGenerativeAIEmbeddings(model=GEMINI_EMBEDDING_MODEL) 
     #cria o banco de dados vetorizado
-    db = Chroma.from_documents(chunks, embeddings, persist_directory="db")
+    db = Chroma.from_documents(chunks, embeddings, persist_directory="Primeiro_agente_IA/db")
     print("DB Criado com sucesso!")
 
 #chama função
